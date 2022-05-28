@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RysowanieWykresówFunkcji", "RysowanieWykresówFunkcji\RysowanieWykresówFunkcji.csproj", "{815AA755-F304-4A1F-AA4B-311693814A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815AA755-F304-4A1F-AA4B-311693814A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815AA755-F304-4A1F-AA4B-311693814A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815AA755-F304-4A1F-AA4B-311693814A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815AA755-F304-4A1F-AA4B-311693814A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EBFAEC-0A83-44AA-93FF-285AC69AD4DD}
+	EndGlobalSection
+EndGlobal

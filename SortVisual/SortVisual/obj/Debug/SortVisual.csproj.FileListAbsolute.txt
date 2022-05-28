@@ -1,0 +1,10 @@
+C:\Users\V\Desktop\SortVisual\SortVisual\bin\Debug\SortVisual.exe.config
+C:\Users\V\Desktop\SortVisual\SortVisual\bin\Debug\SortVisual.exe
+C:\Users\V\Desktop\SortVisual\SortVisual\bin\Debug\SortVisual.pdb
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.csprojAssemblyReference.cache
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.Form1.resources
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.Properties.Resources.resources
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.csproj.GenerateResource.cache
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.exe
+C:\Users\V\Desktop\SortVisual\SortVisual\obj\Debug\SortVisual.pdb

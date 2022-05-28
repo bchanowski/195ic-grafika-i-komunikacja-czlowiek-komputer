@@ -1,0 +1,10 @@
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.window.resources
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.GenerateResource.cache
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.exe.config
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.exe
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\bin\Debug\PrzesunieciaObroty.pdb
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.csprojAssemblyReference.cache
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.Properties.Resources.resources
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.exe
+C:\Users\V\Desktop\grafika-komputerowa-main\grafika-komputerowa-main\ChanowskiBartosz195ICA_OGK_PrzesunieciaObroty\obj\Debug\PrzesunieciaObroty.pdb

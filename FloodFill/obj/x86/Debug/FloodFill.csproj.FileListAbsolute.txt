@@ -1,0 +1,9 @@
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\bin\Debug\FloodFill.exe
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\bin\Debug\FloodFill.pdb
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\FloodFill.csprojAssemblyReference.cache
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\FloodFill.csproj.GenerateResource.cache
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\FloodFill.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\FloodFill.exe
+C:\Users\V\Desktop\flood_fill_cs\FloodFill\obj\x86\Debug\FloodFill.pdb
